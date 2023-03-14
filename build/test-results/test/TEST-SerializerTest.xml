@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SerializerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-20T21:31:15" hostname="DESKTOP-4HFR3CK" time="0.316">
+  <properties/>
+  <testcase name="deserialize simple object()" classname="SerializerTest" time="0.316"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
